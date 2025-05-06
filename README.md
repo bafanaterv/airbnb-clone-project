@@ -24,3 +24,17 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services
 - QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
 
+## Database Design
+### Key entities 
+1. User Authentication
+   - Features: Register new users, authenticate, and manage user profiles.
+2. Property Management
+   - Features: Create, update, retrieve, and delete property listings.
+4. Booking System
+   - Features: Make, update, and manage bookings, including check-in and check-out details.
+6. Payment Processing
+   - Features: Handle payment transactions related to bookings
+8. Review System
+   -  Post and manage reviews for properties.
+   
+
