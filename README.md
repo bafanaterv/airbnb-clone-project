@@ -69,6 +69,26 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - Preventing Unauthorized Access
 - Maintaining Trust and Reputation
 - Ensuring System Stability
+
+## CI/CD Pipeline
+- Continuous Integration and Continuous Deployment (CI/CD) pipelines are a set of automated processes that allow developers to build, test, and deploy code quickly and efficiently. This ensures faster delivery of updates, better collaboration, and higher software quality.
+
+  ## Why CI/CD Is Important
+  - Faster Development Cycles: Automates testing and deployment, allowing quicker iterations and reduced manual work.
+  - Improved Code Quality: Automated tests catch bugs early before they reach production.
+  - Reliable Deployments: Ensures consistent deployment processes across environments.
+  - Better Collaboration: Encourages frequent code commits and teamwork with immediate feedback
+  - Early Detection of Errors: Failing builds or tests prevent broken code from being deployed.
+ 
+  ###Tools Used
+  - GitHub Actions: Automates workflows such as running tests, linting code, and deploying on every push or pull request.
+  - Docker: Provides consistent environments across development, testing, and production.
+  - Jest / Mocha (or other test frameworks): Used for running unit and integration tests.
+  - CodeCov / SonarCloud: Optional tools for code coverage and quality analysis
+  - Heroku / Vercel / AWS / DigitalOcean: Platforms where automated deployment can be configured.
+
+
+  
    
 
 
